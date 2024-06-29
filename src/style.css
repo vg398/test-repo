@@ -61,7 +61,6 @@ main {
 
 .meme {
     position: relative;
-    border: 1px solid black;
     display: flex;
     justify-content: center;
 }
